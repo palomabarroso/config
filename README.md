@@ -1,2 +1,2 @@
-https://github.com/palomabarroso/config# config
+https://github.com/palomabarroso/config#
 My configs
