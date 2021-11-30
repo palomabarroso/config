@@ -35,8 +35,7 @@
     "files.associations": {
         "*.js": "javascriptreact"
     },
-    "prettier.disableLanguages": [
-        "js"
-    ],
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "explorer.compactFolders": false,
     "editor.tabSize": 2,
 }
