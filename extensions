@@ -1,0 +1,27 @@
+{
+  "recommendations":[
+    "42crunch.vscode-openapi",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "dracula-theme.theme-dracula",
+    "dsznajder.es7-react-js-snippets",
+    "ecmel.vscode-html-css",
+    "firsttris.vscode-jest-runner",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "hashicorp.terraform",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "redhat.vscode-yaml",
+    "sonarsource.sonarlint-vscode",
+    "waderyan.gitblame",
+    "wayou.vscode-todo-highlight",
+    "xabikos.javascriptsnippets",
+    "yzhang.markdown-all-in-one"
+  ]
+}
